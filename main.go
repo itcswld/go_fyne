@@ -1,9 +1,9 @@
 package main
 
 import (
-	layout "test/ch2_layout"
+	task "test/ch3_task"
 )
 
 func main() {
-	layout.Tab()
+	task.DarkTheme()
 }
